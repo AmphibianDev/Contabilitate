@@ -6,7 +6,7 @@ BC2: https://www.youtube.com/watch?v=S2V_IxEVlGE&list=PLkZLZSc8jr3HBN9W4B80gToPr
 - `Cp` - Capitaluri Proprii
 - `D` - Datoriile sau Capitaluri Străine
 - `Bilanț`: A = P
-- `Passive`: Cp + D
+- `Pasive`: Cp + D
 
 ## **Principiul Partidei Duble în Contabilitate**
 - **Dubla Reprezentare și Determinare:** Orice tranzacție este înregistrată atât în bilanț cât și în contul de profit și pierdere.

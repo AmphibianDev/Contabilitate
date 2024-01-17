@@ -8,7 +8,7 @@ BC1: https://www.youtube.com/watch?v=gHpfY69swKs&list=PLkZLZSc8jr3HBN9W4B80gToPr
 - `Creațe`: Bani pe care alții îi datorează societății.
 - `Obligații Asociați`: Contribuțiile asociaților la capitalul social sau alte forme de finanțare aduse de aceștia. (Capitalul Propriu)
 - `Obligații Terți`: Datoriile societății către terți, cum ar fi furnizorii, băncile sau autoritățile fiscale. (Capitalul Străin/Împrumutat/Datorii)
--  `Lichiditate:` Capacitatea unui bun de a se transforma în numerar (sens restrâns) sau capacitatea entității de a onora datoriile pe termen scurt (sens larg).
+- `Lichiditate:` Capacitatea unui bun de a se transforma în numerar (sens restrâns) sau capacitatea entității de a onora datoriile pe termen scurt (sens larg).
 - `Solvabilitate:` Capacitatea entității de a onora datoriile pe termen lung.
 - `Exigibilitate:` Calitatea unei datorii de a deveni scadentă (momentul când plata datoriei devine necesară legal).
 
