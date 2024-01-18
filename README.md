@@ -7,7 +7,7 @@ Toate notițele sunt disponibile sub licența MIT și pot fi folosite pentru ori
 Dar tin sa precizez ca sunt complet nou în domeniul contabilității și învăț pe parcurs ce scriu aceste notițe. Prin urmare, este forte probabil să conțină greșeli. Orice sugestie sau contribuție este binevenită! Dacă găsiți erori sau aveți îmbunătățiri de propus, nu ezitați să contribuiți direct aici.
 
 ## Cum să Accesați Notițele
-Deschideți cursul, folder-ul care vă interesează, de exemplu: BC de la "Să învățăm contabilitatea" și alegeți numărul lecției/videoclipului, exemplu: BC1.md, unde veți găsi link-ul către lecție/video și notițele în sine.
+![showcase.gif](https://github.com/AmphibianDev/Contabilitate/assets/110111354/bb9bd168-f2bc-4c14-b24d-f16f3950687e)
 
 ## Cum să Sugerez Ceva?
 
