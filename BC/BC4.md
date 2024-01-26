@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=fRx69S0fHZg&list=PLkZLZSc8jr3HBN9W4B80gToPr00dfJrea&index=5
 # TVA: Taxa de Valoare Adăugată
 
 - **Impozit indirect**: Nu cel ce suportă taxa (clientul) o plătește, ci firma/entitatea care a adaugat valoare si l-a vandut.

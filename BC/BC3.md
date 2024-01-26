@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=-Z_NKjzbSUc&list=PLkZLZSc8jr3HBN9W4B80gToPr00dfJrea&index=4
 ### Prescurtări folosite
 - `CPP` - Contul de Profit si Pierdere
 - `ReX` - Rezultatul exercițiului
